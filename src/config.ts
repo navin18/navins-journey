@@ -13,16 +13,16 @@ import {
 
 const config = {
   app: {
-    title: "Reshaped",
-    subtitle: "Blog starter kit",
-    thumbnailUrl: "/img/logo.svg",
+    title: "Navin's Journey",
+    subtitle: "Founder / T-shaped Generalist",
+    thumbnailUrl: "/img/Edited Pic.JPG",
   },
   meta: {
     url: "https://reshaped-blog-starter.vercel.app",
-    title: "Reshaped",
-    description: "Blog starter built on top of Next.js and Reshaped",
+    title: "Navin's Journey",
+    description: "Documenting everything along the way",
     twitter: {
-      username: "blvdmitry",
+      username: "0xNavin",
     },
   },
   menu: [
