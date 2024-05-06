@@ -10,6 +10,9 @@ import {
   Briefcase,
   Layers,
   Package,
+  Octagon,
+  Phone,
+  Smartphone,
 } from "react-feather";
 
 const config = {
@@ -44,27 +47,17 @@ const config = {
     },
 
     {
-      title: "Projects",
+      title: "Startups",
       items: [
         {
-          icon: Package,
-          title: "Reshaped",
-          href: "https://reshaped.so",
+          icon: Smartphone,
+          title: "ContinuOS - Your curated internet",
+          href: "https://letscontinue.co",
         },
         {
-          icon: CheckSquare,
-          title: "Design System Checklist",
-          href: "https://www.designsystemchecklist.com",
-        },
-        {
-          icon: Mic,
-          title: "Design System Interviews",
-          href: "https://reshaped.so/blog",
-        },
-        {
-          icon: Briefcase,
-          title: "Formaat Design",
-          href: "https://formaat.design",
+          icon: Octagon,
+          title: "Samudai - SaaS for remote teams",
+          href: "https://samudai.xyz",
         },
       ],
     },
