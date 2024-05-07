@@ -17,12 +17,12 @@ import {
 
 const config = {
   app: {
-    title: "Navin's Joueney",
+    title: "Navin's Journey",
     subtitle: "Documenting everything on the way",
     thumbnailUrl: "/img/logo.svg",
   },
   meta: {
-    url: "https://reshaped-blog-starter.vercel.app",
+    url: "https://navinsjourney.com",
     title: "Navin's Journey",
     description: "Documenting everything on the way",
     twitter: {
