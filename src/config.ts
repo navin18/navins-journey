@@ -7,6 +7,7 @@ import {
   Smartphone,
   Octagon,
   Layers,
+  User,
 } from "react-feather";
 
 const config = {
@@ -45,12 +46,12 @@ const config = {
       items: [
         {
           icon: Smartphone,
-          title: "ContinuOS - Your curated internet",
+          title: "ContinuOS",
           href: "https://letscontinue.co",
         },
         {
-          icon: Octagon,
-          title: "Samudai - SaaS for remote teams",
+          icon: User,
+          title: "Samudai",
           href: "https://samudai.xyz",
         },
       ],
@@ -67,11 +68,6 @@ const config = {
           icon: Linkedin,
           title: "LinkedIn",
           href: "https://www.linkedin.com/in/thenavin/",
-        },
-        {
-          icon: Calendar,
-          title: "Calendly",
-          href: "https://calendly.com/networkwithnavin",
         },
       ],
     },
