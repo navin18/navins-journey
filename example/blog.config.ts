@@ -19,7 +19,7 @@ const config = {
   app: {
     title: "Navin's Journey",
     subtitle: "Documenting everything on the way",
-    thumbnailUrl: "/img/logo.svg",
+    thumbnailUrl: "/img/favicon.ico",
   },
   meta: {
     url: "https://navinsjourney.com",
